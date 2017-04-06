@@ -1,0 +1,12 @@
+import java.awt.Point;
+
+public class Shape {
+	Point p=new Point();
+	Point p1;
+	Point p2;
+	Point p3;
+	Point p4; 
+	public Shape(Point p){
+		this.p;
+	}
+}
